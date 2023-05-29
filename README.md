@@ -1,2 +1,3 @@
 # css-personal-site
-My personal site using html and css.
+My personal site made just by using html and css.
+https://whonehuljain.github.io/css-personal-site/
